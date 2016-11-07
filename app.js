@@ -1,5 +1,6 @@
 /*globals cloudantService:true */
 /*eslint-env node */
+/* does2016 */
 var express = require('express');
 var bodyParser = require('body-parser');
 var cfenv = require("cfenv");
